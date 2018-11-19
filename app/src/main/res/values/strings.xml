@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlaBlaWild</string>
+    <string name="search_text">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainButton">SEARCH AN ITINERARY</string>
+    <string name="depTxt">Departure</string>
+    <string name="destTxt">Destination</string>
+    <string name="destInput">Name</string>
+    <string name="dateTxt">Date</string>
+    <string name="dateInput">DD/MM/YYYY</string>
+    <string name="toast">Please fill destination and departure inputs</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+</resources>
